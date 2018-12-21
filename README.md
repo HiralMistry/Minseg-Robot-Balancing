@@ -3,7 +3,7 @@ Balancing the robot by feeding back the states (angular position, angular veloci
 
 •	Made a self-balancing robot using Minseg and Arduino board. 
 
-•	Measuring the real-time states with the help of accelerometer, gyroscope and encoder and feeding them back to the system (state feedback controller method). (Realterm/coolterm are used to store data for long period).
+•	Measuring the real-time states with the help of accelerometer, gyroscope and encoder and feeding them back to the system (state feedback controller method). Realterm/coolterm are used to store data for long period.
 
 •	Making use of MATLAB and Simulink and working on derived mathematical model for Minseg Robot and analyzing its controllability, observability and stability. 
 
